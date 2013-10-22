@@ -1,0 +1,9 @@
+*.pyc
+.DS_Store
+dist/
+build/
+*.egg-info
+*~
+.ropeproject
+README.html
+cookies.txt
