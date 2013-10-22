@@ -13,7 +13,7 @@ The application requires eBay cookies, saved in the Mozilla `cookies.txt` file f
 - In the Tools menu, select "Export Cookies..."
 - Save the file as cookies.txt
 
-Next create a collection on eBay.com and obtain the COLLECTION_ID from the URL (e.g. "http://www.ebay.com/cln/mitgleitz/This-Is-Why-Im-Broke/58099917014" -> 58099917014).
+Next create a collection on eBay.com and obtain the COLLECTION_ID from the URL (e.g. http://www.ebay.com/cln/mitgleitz/This-Is-Why-Im-Broke/58099917014 -> 58099917014).
 
 Add items to your collection with the following command
 
